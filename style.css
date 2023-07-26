@@ -38,14 +38,18 @@ body{
     margin-bottom: 25px;
   }
   nav ul{
-    padding: 3rem;
+    padding: 0;
+    margin-top: -14px;
     text-align: center;
+    padding-top: 1em;
   }
   section{
     text-align: center;
   }
   section p{
-      margin: 30px;
+      padding-left: 30px;
+      padding-right: 30px;
+      padding-top: 0.5em;
   }
   .wrapper {
     flex: 1;
