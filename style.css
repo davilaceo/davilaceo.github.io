@@ -39,9 +39,8 @@ body{
   }
   nav ul{
     padding: 0;
-    margin-top: -14px;
     text-align: center;
-    padding-top: 1em;
+    margin: 0;
   }
   section{
     text-align: center;
@@ -49,13 +48,14 @@ body{
   section p{
       padding-left: 30px;
       padding-right: 30px;
-      padding-top: 0.5em;
+      margin: 0;
   }
   .wrapper {
     flex: 1;
   }
   div ul{
-    padding-top: 3em;
+    padding-left: 0;
+    margin: 0;
   }
   div ul li{
     padding-bottom: 13px;
